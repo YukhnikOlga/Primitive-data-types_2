@@ -19,7 +19,6 @@ public class Main {
         System.out.println("Начислено бонусов: " + bonus + " рублей");
         System.out.println("Текущий счет: " + total + " рублей");
 
-
     }
 
 }
